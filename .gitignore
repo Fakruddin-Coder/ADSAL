@@ -1,0 +1,12 @@
+# Compiled Executables and Objects
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# IDE and Editor directories
+.vscode/
+.vs/
+.idea/
